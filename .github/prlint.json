@@ -1,0 +1,8 @@
+{
+  "title": [
+    {
+      "pattern": "^\\[MR-[0-9]+\\]",
+      "message": "El título del PR debe comenzar con [MR-NUMERO]. Ejemplo: [MR-123] Configurar PostgreSQL"
+    }
+  ]
+}
